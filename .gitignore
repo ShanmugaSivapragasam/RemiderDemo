@@ -30,3 +30,9 @@ hs_err_pid*
 
 ## mac
 .DS_Store
+
+##gcp
+*service.json
+
+#secret
+*application-local.properties*
